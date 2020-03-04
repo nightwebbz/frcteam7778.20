@@ -1,0 +1,10 @@
+See file:///C:/Users/gilbe/OneDrive/Documents/frcexample/frc2020ex/77782020/7778/drivetrain2020/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramReleaseExecutableFrcUserProgramCpp.
+compiling Autonomous.cpp successful.
+
+compiling Robot.cpp successful.
+In file included from C:\Users\gilbe\OneDrive\Documents\frcexample\frc2020ex\77782020\7778\drivetrain2020\src\main\cpp\Robot.cpp:19:0:
+C:\Users\gilbe\OneDrive\Documents\frcexample\frc2020ex\77782020\7778\drivetrain2020\src\main\cpp\Autonomous.h:13:2: warning: extra ';' [-Wpedantic]
+ };
+  ^
+
+Finished compileFrcUserProgramReleaseExecutableFrcUserProgramCpp, see full log file:///C:/Users/gilbe/OneDrive/Documents/frcexample/frc2020ex/77782020/7778/drivetrain2020/build/tmp/compileFrcUserProgramReleaseExecutableFrcUserProgramCpp/output.txt.
